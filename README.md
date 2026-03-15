@@ -25,4 +25,4 @@ The dataset contains student study hours and exam scores.
 3. Check prediction output
 
 ## Author
-Sartak Thakur
+SRIJAL PRATAP SINGH
